@@ -1,0 +1,4 @@
+﻿  NetworkLab3.cpp
+D:\Studies\Networks\Lab3\NetworkLab3\NetworkLab3.cpp(331,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Studies\Networks\Lab3\NetworkLab3\NetworkLab3.cpp(382,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NetworkLab3.vcxproj -> D:\Studies\Networks\Lab3\NetworkLab3\Debug\NetworkLab3.exe
