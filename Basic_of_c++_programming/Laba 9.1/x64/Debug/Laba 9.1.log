@@ -1,0 +1,7 @@
+﻿  Function.c
+C:\Users\User\OneDrive\Рабочий стол\work\Laba 9.1\Function.c(90,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  Polynomial.c
+  Создание кода...
+C:\Users\User\OneDrive\Рабочий стол\work\Laba 9.1\Function.c(40): warning C4715: getUserIput: значение возвращается не при всех путях выполнения
+C:\Users\User\OneDrive\Рабочий стол\work\Laba 9.1\Function.c(96): warning C4716: calculateResult: должна возвращать значение
+  Laba 9.1.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\work\Laba 9.1\x64\Debug\Laba 9.1.exe

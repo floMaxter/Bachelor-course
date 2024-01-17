@@ -1,0 +1,5 @@
+﻿  Function.c
+C:\Users\User\Desktop\work\Laba №7.2\Function.c(53,25): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "int **"
+C:\Users\User\Desktop\work\Laba №7.2\Function.c(53,20): warning C4024: strol: различные типы для формального и фактического параметров 2
+C:\Users\User\Desktop\work\Laba №7.2\Function.c(57,13): warning C4098: output: функция типа "void", возвращающая значение
+  Laba №7.2.vcxproj -> C:\Users\User\Desktop\work\Laba №7.2\Debug\Laba №7.2.exe

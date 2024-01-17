@@ -1,0 +1,17 @@
+﻿  Function.c
+C:\Users\User\Desktop\work\Laba № 9.0\Function.c(6,30): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.c
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(61,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(73,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(86,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(102,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(114,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(132,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(143,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(156,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\work\Laba № 9.0\Main.c(175,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Laba № 9.0.vcxproj -> C:\Users\User\Desktop\work\Laba № 9.0\Debug\Laba № 9.0.exe

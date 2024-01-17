@@ -1,0 +1,8 @@
+Max
+Experience is 10
+Hourly wage is 45
+Max has worked 45 hours
+Salary is 2025
+Premy is 303.75
+
+
