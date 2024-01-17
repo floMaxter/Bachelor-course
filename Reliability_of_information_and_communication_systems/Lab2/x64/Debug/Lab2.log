@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+D:\Studies\Нажедность\Lab2\Lab2\Lab2.cpp(68,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Studies\Нажедность\Lab2\Lab2\Lab2.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab2.vcxproj -> D:\Studies\Нажедность\Lab2\Lab2\x64\Debug\Lab2.exe
