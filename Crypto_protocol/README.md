@@ -11,7 +11,7 @@ Implementation of some cryptographic encryption algorithms.
   5. Removing the salt from the signature using the salt and the public key (ElGamal).
   6. Verifying the correctness of the signature using the public key (ElGamal).
 3. Kerberos.
-
+* Kerberos is used to authenticate entities requesting access to network resources, especially in large networks to support SSO. The protocol is used by default in many widely used networking systems.
 4. Mental poker.
 * Implementation of a protocol that allows playing poker remotely, ensuring a fair game. The protocol satisfies the following conditions:
     1. The player has no knowledge of any partial information about their opponent's cards.
