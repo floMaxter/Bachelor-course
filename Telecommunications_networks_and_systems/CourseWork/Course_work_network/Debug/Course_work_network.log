@@ -1,0 +1,3 @@
+﻿  Course_work_network.cpp
+D:\Studies\Networks\CourseWork\Version2\Course_work_network\Course_work_network.cpp(247,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Course_work_network.vcxproj -> D:\Studies\Networks\CourseWork\Version2\Course_work_network\Debug\Course_work_network.exe
