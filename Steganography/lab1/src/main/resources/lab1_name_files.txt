@@ -1,0 +1,4 @@
+lab1/src/main/resources/Main.java
+lab1/src/main/resources/lab1_embedded_text.txt
+lab1/src/main/resources/lab1_merge_container.txt
+lab1/src/main/resources/lab1_extractedText.txt
