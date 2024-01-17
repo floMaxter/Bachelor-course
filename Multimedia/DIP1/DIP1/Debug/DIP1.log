@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\Studies\Multimedia\DIP1\DIP1\4.h(272,21): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Multimedia\DIP1\DIP1\4.h(273,22): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Multimedia\DIP1\DIP1\4.h(290,21): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Multimedia\DIP1\DIP1\4.h(291,22): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Multimedia\DIP1\DIP1\4.h(304,21): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Multimedia\DIP1\DIP1\4.h(305,22): warning C4018: '<': signed/unsigned mismatch
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(65,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(66,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(67,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(79,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(80,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(81,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(92,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(93,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\5-6.h(94,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\14-16.h(227,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\14-16.h(228,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\14-16.h(229,34): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(42,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(43,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(44,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(62,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(63,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(64,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(82,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(83,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(84,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(101,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(102,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Studies\Multimedia\DIP1\DIP1\dop.h(103,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  DIP1.vcxproj -> D:\Studies\Multimedia\DIP1\Debug\DIP1.exe

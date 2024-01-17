@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\iyush\source\repos\DIP2\DIP2\bmp.h(99,29): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\bmp.h(100,29): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\bmp.h(101,29): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\AdditiveNoise.h(68,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\AdditiveNoise.h(130,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\ImpulseNoise.h(57,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\ImpulseNoise.h(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\AverageMethod.h(94,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\GaussianFilter.h(130,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\GaussianFilter.h(134,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\GaussianFilter.h(172,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\GaussianFilter.h(174,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\GaussianFilter.h(177,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\MedianFilteringMethod.h(98,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\SobelOperator.h(53,10): warning C4101: I: неиспользованная локальная переменная
+C:\Users\iyush\source\repos\DIP2\DIP2\SobelOperator.h(94,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\SobelOperator.h(95,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\AnchorPoints.h(77,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\AnchorPoints.h(78,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\AnchorPoints.h(79,23): warning C4244: инициализация: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\HistogramEqualization.h(53,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\HistogramEqualization.h(54,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\HistogramEqualization.h(66,27): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\iyush\source\repos\DIP2\DIP2\HistogramEqualization.h(68,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\HistogramEqualization.h(69,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\main.cpp(214,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\main.cpp(216,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP2\DIP2\main.cpp(218,96): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\iyush\source\repos\DIP2\DIP2\main.cpp(223,21): warning C4018: <: несоответствие типов со знаком и без знака
+  DIP2.vcxproj -> C:\Users\iyush\source\repos\DIP2\Debug\DIP2.exe

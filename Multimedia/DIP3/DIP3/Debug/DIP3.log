@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\iyush\source\repos\DIP3\DIP3\DCT.h(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(63,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(64,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(65,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(66,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(230,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(231,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(233,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(269,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(450,14): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(534,14): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\Сompression.h(606,14): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\iyush\source\repos\DIP3\DIP3\main.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\main.cpp(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\main.cpp(140,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\main.cpp(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iyush\source\repos\DIP3\DIP3\main.cpp(335,40): warning C4138: "*/" найден вне комментария
+C:\Users\iyush\source\repos\DIP3\DIP3\main.cpp(335,41): error C2059: синтаксическая ошибка: /
