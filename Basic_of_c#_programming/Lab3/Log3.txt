@@ -1,0 +1,11 @@
+LOG FILE FROM LAB 3
+25.11.2022, 11:59:00: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) â D:\Studies\Proga\Lab2\Lab2Part2.1\MainForm.cs:line 24
+25.11.2022, 12:00:00: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) â D:\Studies\Proga\Lab2\Lab2Part2.1\MainForm.cs:line 24
+25.11.2022, 12:59:00: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) â D:\Studies\Proga\Lab2\Lab2Part2.1\MainForm.cs:line 24
+25.11.2022, 13:00:00: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) â D:\Studies\Proga\Lab2\Lab2Part2.1\MainForm.cs:line 24
+25.11.2022, 13:59:00: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) â D:\Studies\Proga\Lab2\Lab2Part2.1\MainForm.cs:line 24

@@ -1,0 +1,88 @@
+Lab1.cs 30.11.2022, 20:43:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 20:43:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 20:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 20:43:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 20:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 22:03:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 22:33:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 22:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 22:57:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 23:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 20:43:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 20:43:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 20:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 20:43:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 20:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 22:03:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 22:33:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 22:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 22:57:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 23:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 20:43:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 20:43:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 20:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 20:43:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 20:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 22:03:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 22:33:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 22:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 22:57:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 23:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 20:43:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 20:43:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 20:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 20:43:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 20:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+
+Lab1.cs 30.11.2022, 22:03:23: Invalid data. System.Exception: Incorrectly entered age.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 28
+Lab2.cs 30.11.2022, 22:33:33: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+Lab3.cs 30.11.2022, 22:43:39: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab4.cs 30.11.2022, 22:57:46: Invalid data. System.Exception: Incorrectly entered surname.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 26
+Lab2.cs 30.11.2022, 23:44:03: Invalid data. System.Exception: Incorrectly entered name.
+   in Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) in D:\Studies\TP\Lab2\Lab2Part2.1\MainForm.cs:line 24
+

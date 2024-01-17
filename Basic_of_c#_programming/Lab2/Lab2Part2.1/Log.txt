@@ -1,0 +1,14 @@
+23.10.2022, 12:46:16: Invalid data. System.Exception: Incorrectly entered name.
+   в Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 25
+25.11.2022, 22:28:48: Invalid data. System.Exception: Incorrectly entered name.
+   в Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 24
+25.11.2022, 22:29:21: Invalid data. System.Exception: Emtry value
+   в Lab2Part2._1.MainForm.isCorrectData(String msg, String typeData) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 49
+   в Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 23
+25.11.2022, 22:29:24: Invalid data. System.Exception: Emtry value
+   в Lab2Part2._1.MainForm.isCorrectData(String msg, String typeData) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 49
+   в Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 23
+25.11.2022, 22:29:28: Invalid data. System.Exception: Incorrectly entered name.
+   в Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 24
+25.11.2022, 22:29:37: Invalid data. System.Exception: Incorrectly entered name.
+   в Lab2Part2._1.MainForm.buttonSend_Click(Object sender, EventArgs e) в D:\Studies\Прога\Lab2\Lab2Part2.1\MainForm.cs:строка 24
