@@ -1,0 +1,3 @@
+BackgroundNumber 3
+brightness 1
+sound 2
