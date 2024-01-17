@@ -37,9 +37,3 @@ The following tasks have been implemented:
     * For the generated log journal on the FIRST form of the project, determine in which forms exceptions occurred and how many times they appeared in each form (highlight the inclusion of form names in the log journal with a different color).
     * As a result of parsing, highlight all occurrences with the word "form" in the log journal, adding your IP address in a different color if those entries fall within the time interval entered by the user (from hh:mm:ss to hh:mm:ss).
     * Implement parsing of saved log journals in a DLL (with a separate class in the DLL for each regular expression).
-## Getting Started
-#### 1. Clone the application
-    git clone https://github.com/floMaxter/Technologies-and-methods-of-programming.git
-#### 2. Open /Technologies-and-methods-of-programming
-#### 3. Open the downloaded file with extension .sln
-#### 4. Run the application
